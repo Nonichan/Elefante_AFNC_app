@@ -1,0 +1,17 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    dependencies {
+        repositories {
+            mavenCentral()
+            google()  // Google's Maven repository
+
+        }
+        // Add this
+        classpath 'com.google.gms:google-services:4.3.10'
+
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581212807774",
+    "project_id": "elefante-afnc-app",
+    "storage_bucket": "elefante-afnc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581212807774:android:71c0e00d37681e8460cacf",
+        "android_client_info": {
+          "package_name": "com.example.elefante_afnc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581212807774-s166ad8ngnic01t8qli91ahg8ejceg1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnUVgtSiLjyUTL34G67BoDcXpc1s_AhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581212807774-s166ad8ngnic01t8qli91ahg8ejceg1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
