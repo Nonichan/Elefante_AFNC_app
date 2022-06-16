@@ -2,6 +2,7 @@ package com.example.elefante_afnc_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -19,7 +20,11 @@ public class MainActivity extends AppCompatActivity {
         button_siguiente.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(), "Bienvenido", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "Bienvenido", Toast.LENGTH_SHORT).show();
+
+                Intent intent = new Intent(MainActivity.this,
+                                                        ListAnimalActivity.class);
+                startActivity(intent);
             }
         });
     }
