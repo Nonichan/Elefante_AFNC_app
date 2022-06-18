@@ -1,7 +1,29 @@
 <resources>
-    <string name="app_name">Elefante_AFNC_app</string>
+<string name="app_name">Elefante_afnc</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="nav_header_title">Android Studio</string>
+<string name="nav_header_subtitle">android.studio@android.com</string>
+<string name="nav_header_desc">Navigation header</string>
+<string name="action_settings">Configurar</string>
 
-    <string name="Elefante">Elefante</string>
-    <string name="Siguiente">Siguiente</string>
-    <string name="contexto">Wey Contexto plox</string>
+<string name="menu_home">Elefante</string>
+<string name="menu_gallery">Gallery</string>
+<string name="menu_slideshow">Slideshow</string>
+
+<string name="Minombre_string">Angel Nónigo Cisneros</string>
+<string name="Version_app">Version 5.0</string>
+
+<string name="listaAnimales_string">Lista de animales</string>
+<string name="misAnimales_string">Mis animales</string>
+<string name="articulos_string">Artículos</string>
+<string name="login_string">Login</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+
+<string name="nombreEspecie">Nombre de la especie:</string>
+<string name="colorEspecie">Color de la especie:</string>
+<string name="Elefante">Elefante</string>
+<string name="Siguiente">Siguiente</string>
+<string name="contexto">Wey Contexto plox</string>
 </resources>
